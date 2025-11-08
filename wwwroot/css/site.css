@@ -30,30 +30,26 @@ body {
   text-align: start;
 }
 
-.movie-filter-form {
-    display: flex;
+.form-style {
+    padding: 5px, 10px;
     align-items: center;
     gap: 8px;
     margin-bottom: 1rem;
 }
 
-.movie-filter-form input,
-.movie-filter-form select {
-    margin: 0 15px;
-    padding: 6px 10px;
+.form-style input,
+.form-style select {
+    margin: 10px;
+    padding: 5px 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 1rem;
     box-sizing: border-box;
 }
 
-.movie-filter-form input[type="submit"] {
+.form-style input[type="submit"] {
     cursor: pointer;
-    background-color: #f2f2f2;
-    border: 1px solid #bbb;
+    background-color: #d331f4;
+    border: 1px solid #3c0851;
     transition: background-color 0.2s ease;
-}
-
-.movie-filter-form input[type="submit"]:hover {
-    background-color: #f320ef;
 }

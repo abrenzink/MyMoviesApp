@@ -351,4 +351,5 @@ C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Deb
 C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
 C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-it29o45cvb-it29o45cvb.gz
 C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-it29o45cvb-it29o45cvb.gz
-C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-ki3qe4g58o-ki3qe4g58o.gz
+C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
+C:\Users\AndreaBrenzink-Front\Documents\00. Pessoais\Exercicios\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-dqkxa04kzq-dqkxa04kzq.gz
